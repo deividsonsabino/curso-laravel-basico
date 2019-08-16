@@ -1,0 +1,26 @@
+.edit 
+{
+background: blue;
+}
+
+.delete
+{
+background: red;
+}
+.actions
+{
+padding: 10px;
+color: white;
+text-decoration: none;
+font-size: 1em;
+}
+
+.actions hover{
+    text-decoration: none;
+    color:#fff;
+}
+
+.btn-add
+{
+    margin:10px;
+}
